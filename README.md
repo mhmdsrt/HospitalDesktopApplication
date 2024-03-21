@@ -44,14 +44,19 @@ Hasta Detay formunda giriş yapan hasta geçmiş randevuları ve alınabilen ran
 
 
 Hasta Detay formunda randevu almak istediği branşı seçtiğinde o branşa ait doktorları görüntülüyor.Aktif randevu ve geçmiş randevu tablolarındaki herhangi  hücreye yani bir randevuya tıklandığı 
-zaman o randevuya ait bilgiler tüm kutucuklara geliyor.
+zaman o randevuya ait bilgiler tüm kutucuklara çekiliyor.
 
 
 ![Ekran Görüntüsü (9)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/533d68eb-1927-43ce-bf4d-dbfef4edb5a2)
 
 
-Hasta seçtiği randevu alırken branşa ve doktora ait müsait bir randevu bulduktan sonra doktora randevudan önce görebileceği şikayet metnini oluşturuyor.
-Alınan randevu anında geçmiş randevular bölümünde görüntüleniyor.
+Hasta seçtiği randevu alırken branşa ve doktora ait müsait bir randevu bulduktan sonra doktorun randevudan önce görebileceği şikayet metnini oluşturuyor.
+Alınan randevu ,anında geçmiş randevular bölümünde görüntüleniyor.
 
-![Ekran Görüntüsü (10)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/c752ff43-ceee-4220-a259-15ebf726197b)
 
+![Ekran Görüntüsü (11)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/5f9ffbc7-cef6-4954-8211-9dd7ba704bc4)
+
+
+Alınan randevunun bir daha alınmaması ve iptal edilen randevunun tekrar iptal edilmesi durumunda hata mesajı veriyoruz.
+
+![Ekran Görüntüsü (12)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/56876f63-d1f3-4497-9441-337a41861d67)
