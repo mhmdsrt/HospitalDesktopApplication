@@ -37,3 +37,15 @@ Güncellenek kayıta ait tc numarası sistemde kayıtlı mı? Önce bu kontrol e
 
 ![Ekran Görüntüsü (6)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/f485733e-03fe-4668-98f5-97a04745c001)
 
+
+Hasta Detay formunda giriş yapan hasta geçmiş randevuları ve alınabilen randevuları bu bölümde görüntülüyor.
+
+![Ekran Görüntüsü (8)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/943b54cc-fe49-4663-af61-962b4cbeec11)
+
+
+Hasta Detay formunda randevu almak istediği branşı seçtiğinde o branşa ait doktorları görüntülüyor.
+
+![Ekran Görüntüsü (9)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/533d68eb-1927-43ce-bf4d-dbfef4edb5a2)
+
+
+
