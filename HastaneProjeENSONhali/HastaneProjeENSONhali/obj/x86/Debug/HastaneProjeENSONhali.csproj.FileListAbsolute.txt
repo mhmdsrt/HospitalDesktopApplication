@@ -1,0 +1,14 @@
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\x86\Debug\HastaneProjeENSONhali.exe.config
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\x86\Debug\HastaneProjeENSONhali.exe
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\x86\Debug\HastaneProjeENSONhali.pdb
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.csproj.AssemblyReference.cache
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.Form_Base.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.Form_PatientDetail.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.Form_PatientEntry.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.Form_PatientInformationUpdate.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.Form_PatientRegistration.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.Properties.Resources.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.csproj.GenerateResource.cache
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.csproj.CoreCompileInputs.cache
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.exe
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\x86\Debug\HastaneProjeENSONhali.pdb

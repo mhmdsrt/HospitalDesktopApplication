@@ -1,0 +1,48 @@
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\Debug\HastaneProjeENSONhali.exe.config
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\Debug\HastaneProjeENSONhali.exe
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\Debug\HastaneProjeENSONhali.pdb
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.AssemblyReference.cache
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_Base.resources
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientEntry.resources
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientRegistration.resources
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Properties.Resources.resources
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.GenerateResource.cache
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.CoreCompileInputs.cache
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.exe
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.pdb
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientDetail.resources
+C:\Users\muho\OneDrive\Desktop\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientInformationUpdate.resources
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\Debug\HastaneProjeENSONhali.exe
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\Debug\HastaneProjeENSONhali.exe.config
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_Base.resources
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientDetail.resources
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientEntry.resources
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientInformationUpdate.resources
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientRegistration.resources
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.exe
+C:\Users\muham\OneDrive\Masaüstü\1\UDEMY PROJELER_MURATYUCEDAG\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.pdb
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.AssemblyReference.cache
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.exe
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.pdb
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\Debug\HastaneProjeENSONhali.exe.config
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\Debug\HastaneProjeENSONhali.exe
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\bin\Debug\HastaneProjeENSONhali.pdb
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_Base.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientDetail.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientEntry.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientInformationUpdate.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_PatientRegistration.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Properties.Resources.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.GenerateResource.cache
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.csproj.CoreCompileInputs.cache
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_SecretaryEntry.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_SecretaryDetail.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_DoctorEdit.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_BranchEdit.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_Announcements.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_DoctorEntry.resources
+C:\Users\Mimy\Desktop\HastaneProjeENSONhali\HastaneProjeENSONhali\obj\Debug\HastaneProjeENSONhali.Form_DoctorDetail.resources
