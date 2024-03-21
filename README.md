@@ -15,5 +15,6 @@ Hasta bölümünde uygulamayı ilk defa kullanıcak hasta için "Patient Registr
 ![Ekran Görüntüsü (3)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/75ee35c5-fbab-43aa-8e57-3e7cde9a7d2d)
 
 Bu bölümde hasta kayıt olurken her kaydı birbirinden ayıran eşsiz tc numarası kontrol edilir eğer daha önce o tc numarasına ait kayıt varsa hata mesajı verilir.
+Sol üssteki buton ile formlar arası geçiş sağlanır.Clear butonu ile tüm kutucuklar temizlenir.
 
 ![Ekran Görüntüsü (4)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/5e64db24-9944-4bd0-b8a1-cc16fb7610e3)
