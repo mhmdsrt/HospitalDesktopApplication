@@ -43,9 +43,15 @@ Hasta Detay formunda giriş yapan hasta geçmiş randevuları ve alınabilen ran
 ![Ekran Görüntüsü (8)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/943b54cc-fe49-4663-af61-962b4cbeec11)
 
 
-Hasta Detay formunda randevu almak istediği branşı seçtiğinde o branşa ait doktorları görüntülüyor.
+Hasta Detay formunda randevu almak istediği branşı seçtiğinde o branşa ait doktorları görüntülüyor.Aktif randevu ve geçmiş randevu tablolarındaki herhangi  hücreye yani bir randevuya tıklandığı 
+zaman o randevuya ait bilgiler tüm kutucuklara geliyor.
+
 
 ![Ekran Görüntüsü (9)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/533d68eb-1927-43ce-bf4d-dbfef4edb5a2)
 
 
+Hasta seçtiği randevu alırken branşa ve doktora ait müsait bir randevu bulduktan sonra doktora randevudan önce görebileceği şikayet metnini oluşturuyor.
+Alınan randevu anında geçmiş randevular bölümünde görüntüleniyor.
+
+![Ekran Görüntüsü (10)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/c752ff43-ceee-4220-a259-15ebf726197b)
 
