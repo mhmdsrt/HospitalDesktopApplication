@@ -22,3 +22,8 @@ Sol üssteki buton ile formlar arası geçiş sağlanır.Clear butonu ile tüm k
 Hasta bilgilerini güncelleme formunda önce hastanın tc numarasını girmesi istenir ve girdiği tc numarasına ait tüm bilgiler ilgili kutucuklara veri tabanından çekilir.
 
 ![Ekran Görüntüsü (5)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/9705ec2d-432a-4cbc-a27d-163bd35b8ef3)
+
+Güncellenek kaydın tc numarası sistemde kayıtlı mı? Önce bu kontrol edilir.Olmayan bir kaydı güncellemeye çalışırsa hata verir.
+
+![Ekran Görüntüsü (6)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/f485733e-03fe-4668-98f5-97a04745c001)
+
