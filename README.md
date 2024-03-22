@@ -60,3 +60,8 @@ Randevu alındıktan veya iptal ediltikten sonra hemen sonrasında tablolarımı
 Alınan randevunun bir daha alınamaması ve iptal edilen randevunun tekrar iptal edilememesi için hata mesajı veriyoruz.
 
 ![Ekran Görüntüsü (12)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/56876f63-d1f3-4497-9441-337a41861d67)
+
+
+Sekreter formunda ise duyuru oluşturma,randevu bilgilerini ,doktor bilgilerini  ve branş bilgilerini düzenleme gibi işlemler yapılıyor.(CRUD işlemleri)
+
+![Ekran Görüntüsü (13)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/3334996c-980d-4c42-9460-510b28be88d0)
