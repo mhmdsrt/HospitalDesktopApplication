@@ -95,3 +95,8 @@ Doktor formunda ise randevuya tıklayarak; randevuları,o randevuyu hangi hastan
 
 CRUD işlemlerinden hemen sonra butona basıldıktan sonra  formlardaki tüm dataGridViewileri yenilemek için bir sınıf oluşturdum.Bu sınıfta constructor oluşturup overloading ettim.Nesne oluşturuldu anda parametre olarak gönderilen tablo ismi ve datagridview isimlerini sınıfın kendi içindeki propertylerine atıyor.
 ![Ekran Görüntüsü (22)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/4063781a-3d4a-4610-9bb9-518561e83af0)
+
+
+SlqConn sınıfımda ise bağlatımı açıp bağlantısı adresini döndürüyorum.
+
+![Ekran Görüntüsü (23)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/eaef0cfa-1c6a-44c4-956a-6075b9768125)
