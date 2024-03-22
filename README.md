@@ -80,7 +80,7 @@ Olmayan bir kaydı silmeye ya da güncellemeye çalışmak ve var olan bir kayd�
 
 
 Doctorları düzenleme formunda ise TC numarasını tc kutucuğuna girildiği anda veya tabloda tıklanılan hücrenin ait olduğu satırdaki doktor bilgileri tüm kutucuklara çekilir.
-Her yerde kullandığımız olmayan bir kaydı silme veya güncellemek ya da kaydı tekrar üst üste kaydetmek hata verir ve işlem gerçekleşmez.
+Her yerde kullandığımız özellik olan;olmayan bir kaydı silme veya güncellemek ya da kaydı tekrar üst üste kaydetmek hata verir ve işlem gerçekleşmez.
 ![Ekran Görüntüsü (18)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/08c9df8d-aba2-45fd-a83c-b4e548ec296c)
 
 
