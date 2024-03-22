@@ -65,3 +65,25 @@ Alınan randevunun bir daha alınamaması ve iptal edilen randevunun tekrar ipta
 Sekreter formunda ise duyuru oluşturma,randevu bilgilerini ,doktor bilgilerini  ve branş bilgilerini düzenleme gibi işlemler yapılıyor.(CRUD işlemleri)
 
 ![Ekran Görüntüsü (13)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/3334996c-980d-4c42-9460-510b28be88d0)
+
+
+ID numarası girilen ya da Randevular tablosundan seçilen randevunun tüm randevu bilgileri kutucuklara çekiliyor ayrıca ID kutucuğudaki numara silindiği zaman tüm kutucuklar temizleniyor.
+
+![Ekran Görüntüsü (14)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/5f7772f5-1826-4e3e-96f4-83dd94cdb4fa)
+
+Sekreter duyuru oluşturabiliyor ve doktorlar kendi panelinde bunu görüntüleyebilecek.
+![Ekran Görüntüsü (15)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/eb3de925-231d-46dd-9b45-246dfb617c7b)
+
+Olmayan bir kaydı silmeye ya da güncellemeye çalışmak ve var olan bir kaydı tekrar üst üste oluşturmaya çalışmak hata mesajı verir ve işlemi gerçekleştirmez.
+![Ekran Görüntüsü (16)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/0a9b8bf2-18a5-4487-b1e2-15983744aade)
+![Ekran Görüntüsü (17)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/ab2bf972-c38b-4e21-8d36-d04cfcf135c2)
+
+
+Doctorları düzenleme formunda ise TC numarasını tc kutucuğuna girildiği anda veya tabloda tıklanılan hücrenin ait olduğu satırdaki doktor bilgileri tüm kutucuklara çekilir.
+Her yerde kullandığımız olmayan bir kaydı silme veya güncellemek ya da kaydı tekrar üst üste kaydetmek hata verir ve işlem gerçekleşmez.
+![Ekran Görüntüsü (18)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/08c9df8d-aba2-45fd-a83c-b4e548ec296c)
+
+
+Branşları düzenleme bölümünde ise her formda uyguladığımız CRUD işemleri sonunda tablolarımızı(dataGridView) anında yeniliyoruz.
+
+![Ekran Görüntüsü (19)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/3169e348-9250-4017-8dab-d87920dc2854)
