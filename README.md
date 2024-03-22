@@ -57,6 +57,6 @@ Alınan randevu ,anında geçmiş randevular bölümünde görüntüleniyor.
 ![Ekran Görüntüsü (11)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/5f9ffbc7-cef6-4954-8211-9dd7ba704bc4)
 
 
-Alınan randevunun bir daha alınmaması ve iptal edilen randevunun tekrar iptal edilmesi durumunda hata mesajı veriyoruz.
+Alınan randevunun bir daha alınamaması ve iptal edilen randevunun tekrar iptal edilememesi için hata mesajı veriyoruz.
 
 ![Ekran Görüntüsü (12)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/56876f63-d1f3-4497-9441-337a41861d67)
