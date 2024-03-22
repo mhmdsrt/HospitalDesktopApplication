@@ -51,7 +51,7 @@ zaman o randevuya ait bilgiler tüm kutucuklara çekiliyor.
 
 
 Hasta seçtiği randevu alırken branşa ve doktora ait müsait bir randevu bulduktan sonra doktorun randevudan önce görebileceği şikayet metnini oluşturuyor.
-Alınan randevu ,anında geçmiş randevular bölümünde görüntüleniyor.
+Randevu alındıktan veya iptal ediltikten sonra hemen sonrasında tablolarımız yenileniyor.
 
 
 ![Ekran Görüntüsü (11)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/5f9ffbc7-cef6-4954-8211-9dd7ba704bc4)
