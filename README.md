@@ -87,3 +87,8 @@ Her yerde kullandığımız özellik olan;olmayan bir kaydı silme veya güncell
 Branşları düzenleme bölümünde ise her formda uyguladığımız CRUD işemleri sonunda tablolarımızı(dataGridView) anında yeniliyoruz.
 
 ![Ekran Görüntüsü (19)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/3169e348-9250-4017-8dab-d87920dc2854)
+
+
+Doktor formunda ise randevuya tıklayarak; randevuları,o randevuyu hangi hastanın aldığını ve hastanın randevuyu alırken oluşturmuş olduğu şikayeti görebiliyor.
+![Ekran Görüntüsü (20)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/c5c2ff0e-14dd-42c1-a41a-9f5409255297)
+![Ekran Görüntüsü (21)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/29532a33-57b9-4eca-9ce7-9c02d59ec402)
