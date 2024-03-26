@@ -1,7 +1,7 @@
 # HospitalDesktopApplication
 Desktop application for hospital staff and patients.
 
-Merhabalar.C# form uygulamasında geliştirmiş olduğum hastane uygulamasını size ayrıntılı bir şekilde anlatacağım.
+Merhabalar.C# form uygulamasında(ADO.NET) geliştirmiş olduğum hastane uygulamasını size ayrıntılı bir şekilde anlatacağım.
  Masaüstü uygulamamız üç bölümden oluşuyor; hasta,doktor ve sekreter.
 
 ![Ekran Görüntüsü (1)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/b4248ab2-7484-4fa9-a012-e34566cce357)
