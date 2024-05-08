@@ -1,5 +1,5 @@
 # HospitalDesktopApplication
-Desktop application for hospital staff and patients.
+Desktop application for hospital staff and patients.(ADO.NET)
 
 Merhabalar.C# form uygulamasında(ADO.NET) geliştirmiş olduğum hastane uygulamasını size ayrıntılı bir şekilde anlatacağım.
  Masaüstü uygulamamız üç bölümden oluşuyor; hasta,doktor ve sekreter.
