@@ -33,7 +33,7 @@ Hasta bilgilerini güncelleme formunda önce hastanın TC numarasını girmesi i
 ![Ekran Görüntüsü (5)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/9705ec2d-432a-4cbc-a27d-163bd35b8ef3)
 
 
-Güncellenek kayıta ait tc numarası sistemde kayıtlı mı? Önce bu kontrol edilir. Olmayan bir kaydı güncellemeye çalışırsa hata verir.
+Güncellenek kayıta ait TC numarası sistemde kayıtlı mı? Önce bu kontrol edilir. Olmayan bir kaydı güncellemeye çalışırsa hata verir.
 
 ![Ekran Görüntüsü (6)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/f485733e-03fe-4668-98f5-97a04745c001)
 
@@ -62,7 +62,7 @@ Alınan randevunun bir daha alınamaması ve iptal edilen randevunun tekrar ipta
 ![Ekran Görüntüsü (12)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/56876f63-d1f3-4497-9441-337a41861d67)
 
 
-Sekreter formunda ise duyuru oluşturma,randevu bilgilerini ,doktor bilgilerini  ve branş bilgilerini düzenleme gibi işlemler yapılıyor.(CRUD işlemleri)
+Sekreter formunda ise duyuru oluşturma,randevu bilgilerini, doktor bilgilerini ve branş bilgilerini düzenleme gibi işlemler yapılıyor.(CRUD işlemleri)
 
 ![Ekran Görüntüsü (13)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/3334996c-980d-4c42-9460-510b28be88d0)
 
