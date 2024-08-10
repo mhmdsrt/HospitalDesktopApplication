@@ -97,6 +97,6 @@ CRUD işlemlerinden hemen sonra butona basıldıktan sonra  formlardaki tüm dat
 ![Ekran Görüntüsü (22)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/4063781a-3d4a-4610-9bb9-518561e83af0)
 
 
-SlqConn sınıfımda ise bağlatımı açıp bağlantısı adresini döndürüyorum.
+SqlConn sınıfımda ise bağlatımı açıp bağlantısı adresini döndürüyorum.
 
 ![Ekran Görüntüsü (23)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/eaef0cfa-1c6a-44c4-956a-6075b9768125)
