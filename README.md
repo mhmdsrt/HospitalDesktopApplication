@@ -7,7 +7,7 @@ Masaüstü uygulamam üç bölümden oluşuyor: Hasta, Doktor ve Sekreter.
 ![Ekran Görüntüsü (1)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/b4248ab2-7484-4fa9-a012-e34566cce357)
 
 
-Hasta giriş bölümünde hasta kayıt olma,kayıtlı hastanın kendi bilgilerini güncelleme ve hasta detay formuna geçiş için TC numarası ve şifresi ile giriş yapıyor.
+Hasta giriş bölümünde hasta kayıt olma, kayıtlı hastanın kendi bilgilerini güncelleme ve hasta detay formuna geçiş için TC numarası ve şifresi ile giriş yapıyor.
 
 ![Ekran Görüntüsü (2)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/9ec87d68-aff2-4992-a484-58992e7ad5c5)
 
