@@ -84,19 +84,19 @@ Randevu alındıktan veya iptal ediltikten sonra hemen sonrasında tablolarımı
 ![Ekran Görüntüsü (18)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/08c9df8d-aba2-45fd-a83c-b4e548ec296c)
 
 
-## Branşları düzenleme bölümünde ise her formda uyguladığımız CRUD işemleri sonunda tablolarımızı(dataGridView) anında yeniliyoruz.
+## 🎯 Branşları düzenleme bölümünde ise her formda uyguladığımız CRUD işemleri sonunda tablolarımızı(dataGridView) anında yeniliyoruz.
 
 ![Ekran Görüntüsü (19)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/3169e348-9250-4017-8dab-d87920dc2854)
 
 
-## Doktor formunda ise randevuya tıklayarak; randevuları, o randevuyu hangi hastanın aldığını,hastanın randevuyu alırken oluşturmuş olduğu şikayeti ve sekreterin oluşturduğu duyuruları görebiliyor.
+## 🎯 Doktor formunda ise randevuya tıklayarak; randevuları, o randevuyu hangi hastanın aldığını,hastanın randevuyu alırken oluşturmuş olduğu şikayeti ve sekreterin oluşturduğu duyuruları görebiliyor.
 ![Ekran Görüntüsü (20)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/c5c2ff0e-14dd-42c1-a41a-9f5409255297)
 ![Ekran Görüntüsü (21)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/29532a33-57b9-4eca-9ce7-9c02d59ec402)
 
-## CRUD işlemlerinden hemen sonra butona basıldıktan sonra  formlardaki tüm dataGridViewileri yenilemek için bir sınıf oluşturdum.Bu sınıfta constructor oluşturup overloading ettim. Nesne oluşturuldu anda parametre olarak gönderilen tablo ismi ve datagridview isimlerini sınıfın kendi içindeki propertylerine atıyor.
+## 🎯 CRUD işlemlerinden hemen sonra butona basıldıktan sonra  formlardaki tüm dataGridViewileri yenilemek için bir sınıf oluşturdum.Bu sınıfta constructor oluşturup overloading ettim. Nesne oluşturuldu anda parametre olarak gönderilen tablo ismi ve datagridview isimlerini sınıfın kendi içindeki propertylerine atıyor.
 ![Ekran Görüntüsü (22)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/4063781a-3d4a-4610-9bb9-518561e83af0)
 
 
-## SqlConn sınıfımda ise bağlatımı açıp bağlantısı adresini döndürüyorum.
+## 🎯 SqlConn sınıfımda ise bağlatımı açıp bağlantısı adresini döndürüyorum.
 
 ![Ekran Görüntüsü (23)](https://github.com/mhmdsrt/HospitalDesktopApplication/assets/164398109/eaef0cfa-1c6a-44c4-956a-6075b9768125)
